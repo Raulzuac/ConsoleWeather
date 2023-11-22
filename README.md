@@ -2,11 +2,12 @@
 Console applicaton of weather using node
 
 ## Configuration
+To install all the necesary node modules
 ```
 npm i
 ```
 
-To install all the necesary node modules
+
 
 create a assets directory and inside keys.js:
 ```
